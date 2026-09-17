@@ -91,4 +91,3 @@ atualizarContador()
 setInterval(atualizarContador, 1000)
 
 inputdata.addEventListener("change", atualizarContador)
-
